@@ -1,0 +1,15 @@
+$defPattern: orange;
+$defContainer: 4px solid red;
+
+h1 {
+  color: $defPattern;
+}
+h2 {
+  color: $defPattern;
+}
+h3 {
+  color: $defPattern;
+}
+.container, .subcontainer{
+  border: $defContainer;
+}
